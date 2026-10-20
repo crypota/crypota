@@ -1,4 +1,4 @@
-# Hi, I'm Igor 👋
+# Hi, I'm papa`o`co 👋
 
 I'm interested in crypto, AI-assisted research, and practical automation.
 I use this space to share small tools, document experiments, and make results
